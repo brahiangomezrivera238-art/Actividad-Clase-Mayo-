@@ -28,5 +28,11 @@
     "nombre": "maus rojo",
     "precio": 8000,
     "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "impresora roja ",
+    "precio": 11,
+    "disponible": true
   }
 ]
