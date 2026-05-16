@@ -22,5 +22,11 @@
     "nombre": "Auriculares Bluetooth",
     "precio": 200000,
     "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "maus rojo",
+    "precio": 8000,
+    "disponible": true
   }
 ]
