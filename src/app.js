@@ -17,3 +17,5 @@ app.use(express.static(path.join(__dirname, '../public')));
 app.use('/api/productos', rutasProductos);
 
 module.exports = app;
+
+// Cambios realizados por Samuel Molina - Actividad Clase Mayo
